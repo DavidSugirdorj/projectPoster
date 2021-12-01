@@ -1,0 +1,12 @@
+type,rating,Average of popularity
+Movie,PG-13-Teens13orolder,3037.33
+Movie,R+-MildNudity,196.00
+Movie,R-17+(violence&profanity),1343.20
+OVA,PG-13-Teens13orolder,2477.46
+OVA,R+-MildNudity,2394.00
+OVA,R-17+(violence&profanity),481.00
+TV,G-AllAges,2232.33
+TV,PG-13-Teens13orolder,1533.52
+TV,PG-Children,4496.33
+TV,R+-MildNudity,849.90
+TV,R-17+(violence&profanity),1308.60
